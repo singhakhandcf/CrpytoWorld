@@ -1,4 +1,4 @@
-#Deployment link -- https://relaxed-yeot-de9eb2.netlify.app/exchanges
+#Deployment link -- https://relaxed-yeot-de9eb2.netlify.app
 
 # Getting Started with Create React App
 
